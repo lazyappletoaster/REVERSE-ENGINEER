@@ -1,3 +1,4 @@
 # REVERSE ENGINEERED EXPLOIT POC
 
-just reverse engineer tries
+# FOUND EXPLOITS:
+A kexploit. I want to call it COVID27
